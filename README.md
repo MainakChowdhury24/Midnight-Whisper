@@ -1,4 +1,4 @@
 # Midnight-Whisper
 This is my first Git repository
 <br>
-Author - Mainak Chowdhury
+Author - Mainak Chowdhury (Student)
